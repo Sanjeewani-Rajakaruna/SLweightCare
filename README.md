@@ -4,11 +4,7 @@ A weight loss system for Sri Lankans
 ## view the system
 
 This document explains how to install the SLweightCare system and provides installation 
-guides to the users step by step clearly. Since this is a web-based system, users have to 
-access this through the internet after hosting the system in a specific URL.
-But, for modification and correction purposes I have instructed offline access to the 
-system.
-
+guides to the users step by step clearly.
 
 1. User should have a computer with a maximum of 1GB memory space.
 2. Next, install any of the localhost software like Wamp or Xampp, to the computer.
