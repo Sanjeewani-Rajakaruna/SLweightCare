@@ -24,7 +24,7 @@ guides to the users step by step clearly.
        
 4. Then, paste all the system developed files into the localhost. If the server is 
 Xammp place those files into C://Xammp/htdocs and if the server is Wamp place 
-those files in C://wamp/www.
+those files in C://wamp/www folder.
 
 5. Thereafter, the user should restart the localhost server by double click on the 
 server icon. 
