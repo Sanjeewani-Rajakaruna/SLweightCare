@@ -1,0 +1,117 @@
+
+
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 90px;   /* Footer height */
+}
+
+
+/*User story right sidebar*/
+
+#storyform{
+  width: 100%;
+  box-sizing: border-box;
+  position: relative;
+}
+ #form1 {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+  margin: 0;
+  
+}
+
+
+
+#userhomebg{
+  background-image: url(images/admin1.jpg);
+   background-size: cover; 
+}
+
+#aboutusbg{
+  background-image: url(images/aboutus4.jpg);
+   background-size: cover; 
+}
+
+#bmibg{
+  background-image: url(images/story1.jpg);
+   background-size: cover; 
+}
+
+#storybg{
+  background-image: url(images/story8.jpg);
+   background-size: cover; 
+}
+
+#diet-plansbg{
+  background-image: url(images/home13.jpg);
+   background-size: cover; 
+}
+
+#vegplansbg1{
+  background-image: url(images/plan5.jpg);
+   background-size: cover; 
+}
+
+#vegplansbg{
+  background-image: url(images/plan6.jpeg);
+   background-size: cover; 
+}
+
+#forumbg{
+  background-image: url(images/forum2.jpg);
+   background-size: cover; 
+}
+
+#chatbg{
+  background-image: url(images/chatbg3.jpg);
+   background-size: cover; 
+}
+
+#feedbackbg{
+  background-image: url(images/home8.jpg);
+   background-size: cover; 
+}
+
+#chattingbg{
+  background-image: url(images/chatting2.jpg);
+   background-size: cover; 
+}
+
+
+
+
+
+
+
+.output{
+  background-color: lightblue;
+  box-shadow: 0px 1px 1px #000;
+  height: 450px;
+  width: 93%;
+  font-size: 20px;
+  font-weight: bold;
+  /*marker-bottom: 120px;*/
+  overflow: scroll;
+  margin-bottom: : 70px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
